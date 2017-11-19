@@ -1,11 +1,11 @@
 {
-  "name": "pili",
+  "name": "@homecare/pili",
   "version": "v1.5.5",
-  "description": "Pili Streaming Cloud Server-Side Library For NodeJS",
+  "description": "Pili Streaming Cloud Server-Side Library For NodeJS (Sharper)",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:pili-engineering/pili-sdk-nodejs.git"
+    "url": "git@github.com:sharper/pili-sdk-nodejs.git"
   },
   "keywords": [
     "web-service",
@@ -28,11 +28,15 @@
     {
       "name": "pili",
       "email": "pili@qiniu.com"
+    },
+    {
+      "name": "sharper",
+      "email": "sharper.shen@gmail.com"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pili-engineering/pili-sdk-nodejs/issues"
+    "url": "https://github.com/sharper/pili-sdk-nodejs/issues"
   },
-  "homepage": "https://github.com/pili-engineering/pili-sdk-nodejs"
+  "homepage": "https://github.com/sharper/pili-sdk-nodejs"
 }
